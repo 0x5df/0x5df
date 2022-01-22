@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python
 - 🔬 I'm currently newbie contributor
-- 📧 Email: kylauayara@gmail.com
+- 📧 Email: 4nd123@protonmail.com
 - 🛩️ Telegram: https://t.me/kybo15
 - ⚡ Fun fact: 3 loly Milkita setara dengan 120 kalory, Bikin sehat cerdas dan ceria~!
 
