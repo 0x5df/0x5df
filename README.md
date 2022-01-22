@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
+<img src="banner.gif"</img>
 
 - 🌱 I’m currently learning Python
 - 🔬 I'm currently newbie contributor
