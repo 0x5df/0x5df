@@ -16,7 +16,7 @@
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://kybo15.github.io) <br>
+🚀 [Site](https://wikisite.vercel.app) <br>
 🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA) <br>
 🐦 [Twitter](https://twitter.com/R007MMXV) <br>
 📸 [Instagram](https://www.instagram.com/__153rb) <br>
