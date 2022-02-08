@@ -5,9 +5,9 @@
 </div>
  -->
  
-### Hi there I'am Kybo! 👋
+### Hi there i'am Kybo! 👋
 
-- ⚡ Fun fact: 3 loly Milkita setara dengan 120 kalory, Bikin sehat cerdas dan ceria~!
+⚡ 3 (tiga) loly milkita setara dengan 120 kalory, bikin sehat cerdas dan ceria~!
 
 ### What I'm working on 👨‍💻
 
@@ -17,7 +17,7 @@
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://wikisite.vercel.app) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230) <br>
 🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA) <br>
 🐦 [Twitter](https://twitter.com/R007MMXV) <br>
 📸 [Instagram](https://www.instagram.com/__153rb) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230) <br>
