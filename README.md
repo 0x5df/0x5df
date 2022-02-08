@@ -1,4 +1,5 @@
-<!-- <div align="center">
+<!-- 
+<div align="center">
   <h1>Hi there I'am Kybo 👋</h1>
   <a href="https://bit.ly/3IBoY2f"><img src="https://bit.ly/3AB5o3G"/></a>
   <p><img src="https://github.com/kybo15/kybo15/blob/master/banner.gif?raw=true"/></p>
@@ -9,7 +10,7 @@
 
 ⚡ 3 (tiga) loly milkita setara dengan 120 kalory, bikin sehat cerdas dan ceria~!
 
-### What I'm working on 👨‍💻
+### What i'm working on 👨‍💻
 
 - 🌱 I’m currently learning Python
 - 🔬 I'm currently newbie contributor
