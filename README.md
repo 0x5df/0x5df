@@ -10,15 +10,19 @@
 
 ⚡ 3 (tiga) loly milkita setara dengan 120 kalory, bikin sehat cerdas dan ceria~!
 
-### What i'm working on 👨‍💻
+### What i'm working on 
 
-- 🌱 I’m currently learning Python
-- 🔬 I'm currently newbie contributor
+- ⏳ Learning
+- 🔬 Contributor
+- ⚙️ Hobbyist
+- 🗿 Explorative
+- 💻 Data Science
 
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://wikisite.vercel.app) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230) <br>
-🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA) <br>
 🐦 [Twitter](https://twitter.com/R007MMXV) <br>
-📸 [Instagram](https://www.instagram.com/__153rb) <br>
+🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230) <br>
+📷 [Instagram](https://www.instagram.com/__153rb) <br>
+
