@@ -6,21 +6,21 @@
 </div>
  -->
  
-### Hi there i'am Kybo! 👋
+## Hi there i'am Kybo! 👋
 
-⚡ 3 (tiga) loly milkita setara dengan 120 kalory, bikin sehat cerdas dan ceria~!
+⚡ 3 loly milkita setara dengan 120 kalori, bikin sehat cerdas dan ceria!
 
 ### What i'm working on 
 
-- ⏳ Learning
+- 📖 Learning
 - 🔬 Contributor
-- ⚙️ Hobbyist
-- 🗿 Explorative
-- 💻 Data Science
+- 💡 Hobbyist
+- 🧪 Experimenter
+- 🔬 Data Science
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://wikisite.vercel.app) <br>
+<!-- 🚀 [Site](https://wikisite.vercel.app) <br> -->
 🐦 [Twitter](https://twitter.com/R007MMXV) <br>
 🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230) <br>
