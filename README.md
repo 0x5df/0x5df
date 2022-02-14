@@ -13,7 +13,7 @@
 ### What i'm working on 
 
 - 📖 Learning
-- 🔬 Contributor
+- 💻 Contributor
 - 💡 Hobbyist
 - 🧪 Experimenter
 - 🔬 Data Science
