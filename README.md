@@ -1,28 +1,14 @@
-<!-- 
-<div align="center">
-  <h1>Hi there I'am Kybo 👋</h1>
-  <a href="https://bit.ly/3IBoY2f"><img src="https://bit.ly/3AB5o3G"/></a>
-  <p><img src="https://github.com/kybo15/kybo15/blob/master/banner.gif?raw=true"/></p>
-</div>
- -->
- 
-## Hi there i'am Kybo! 👋
+# Hi there <img src="./share/img/hi.gif" width="30px"> I'm Andre
 
-⚡ 3 loly milkita setara dengan 120 kalori, bikin sehat cerdas dan ceria!
+My purpose to *learn* and *observe* open source code to be useful knowledge for myself or others. and I'm also currently contributing to several organizations such as [Dracula Theme](<https://github.com/dracula/>) and [Magisk-Modules-Repo](<https://github.com/Magisk-Modules-Repo/>) (*vacuum*).
 
-### What i'm working on 
+## 🔎 Find me?
 
-- 📖 Learning
-- 💻 Contributor
-- 💡 Hobbyist
-- 🧪 Experimenter
-- 🔬 Data Science
+<img align="left" width="100" height="100" src="./share/img/shell.svg">
 
-### Find me elsewhere 🌎
+🚀 [Website](https://kybo15.github.io)</br>
+🐦 [Twitter](https://twitter.com/R007MMXV)</br>
+💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230)</br>
+🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA)</br>
 
-<!-- 🚀 [Site](https://wikisite.vercel.app) <br> -->
-🐦 [Twitter](https://twitter.com/R007MMXV) <br>
-🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/andre-attamimi-453109230) <br>
-📷 [Instagram](https://www.instagram.com/__153rb) <br>
-
+<!-- [![profile](https://github.com/kybo15.png?size=100)](https://github.com/kybo15) -->
