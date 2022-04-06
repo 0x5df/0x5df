@@ -1,4 +1,4 @@
-# Hi there <img src="./share/img/hi.gif" width="30px"> I'm Andre
+# Hi there <img src="./share/img/hi.gif" width="30px"> I'm Anatt
 
 My purpose to *learn* and *observe* open source code to be useful knowledge for myself or others. and I'm also currently contributing to several organizations such as [Dracula Theme](<https://github.com/dracula/>) and [Magisk-Modules-Repo](<https://github.com/Magisk-Modules-Repo/>) (*vacuum*).
 
