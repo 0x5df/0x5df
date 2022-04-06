@@ -2,7 +2,7 @@
 
 My purpose to *learn* and *observe* open source code to be useful knowledge for myself or others. and I'm also currently contributing to several organizations such as [Dracula Theme](<https://github.com/dracula/>) and [Magisk-Modules-Repo](<https://github.com/Magisk-Modules-Repo/>) (*vacuum*).
 
-## 🔎 Find me?
+# 🔎 Find me?
 
 <img align="left" width="100" height="100" src="./share/img/shell.svg">
 
