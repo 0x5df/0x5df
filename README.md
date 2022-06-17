@@ -1,4 +1,4 @@
-# Hi there <img src="./share/img/hi.gif" width="30px"> I'm anatt.
+# Hi there <img width="50" height="50" src="./share/img/hi.gif"> I'm anatt.
 
 My purpose to *learn* and *observe* open source code to be useful knowledge for myself or others. and I'm also currently contributing to several organizations such as [Dracula Theme](<https://github.com/dracula/>) and [Magisk-Modules-Repo](<https://github.com/Magisk-Modules-Repo/>) (*vacuum*).
 
@@ -9,6 +9,6 @@ My purpose to *learn* and *observe* open source code to be useful knowledge for 
 🚀 [Website](https://0x5df.github.io)</br>
 🐦 [Twitter](https://twitter.com/R007MMXV)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/andreattamimi)</br>
-<!-- 🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA)</br> -->
+🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA)</br>
 
-<!-- [![profile](https://github.com/kybo15.png?size=100)](https://github.com/kybo15) -->
+<!-- [![profile](https://github.com/0x5df.png?size=100)](https://github.com/0x5df) -->
