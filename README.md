@@ -4,11 +4,11 @@ My purpose to *learn* and *observe* open source code to be useful knowledge for 
 
 # 🔎 Find me?
 
-<img align="left" width="100" height="100" src="./share/img/shell.svg">
+<!-- <img align="left" width="100" height="100" src="./share/img/shell.svg"> -->
 
-🚀 [Website](https://0x5df.github.io)</br>
+<!-- 🚀 [Website](https://0x5df.github.io)</br> -->
 🐦 [Twitter](https://twitter.com/R007MMXV)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/andreattamimi)</br>
-🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA)</br>
+<!-- 🎬 [YouTube](https://www.youtube.com/channel/UCKeqgzkfyowT1N-zIpGw-NA)</br> -->
 
 <!-- [![profile](https://github.com/0x5df.png?size=100)](https://github.com/0x5df) -->
