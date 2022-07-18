@@ -57,18 +57,18 @@
 </p> -->
 
 
-<h3 align="left">Support:</h3>
+### Support:
+
 <p>
     <a href="https://www.buymeacoffee.com/anatt"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anatt" /></a>
     <a href="https://ko-fi.com/anatt"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anatt" /></a>
     <a href="https://saweria.co/anatt"><img align="left" src="https://1.bp.blogspot.com/-wE9ReETuG8w/X8shCS5T06I/AAAAAAAAXTo/WAV67smVBeII34XLl4lSpEgLsrx9g1ntgCLcBGAsYHQ/s16000/SAWERIA.jpg" height="50" width="210" alt="anatt" /></a>
 </p><br><br>
 
+### Another:
 
-<h3 align="left">Another:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x5df&show_icons=true&theme=gruvbox&locale=en&layout=compact" height="150" width="350" alt="0x5df" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x5df&show_icons=true&theme=gruvbox&locale=en" height="150" width="350" alt="0x5df" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=0x5df&show_icons=true&theme=gruvbox&locale=en" height="150" width="350" alt="0x5df" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x5df&theme=dark" height="150" width="350" alt="0x5df" /></p>
-
