@@ -62,7 +62,7 @@
 <p>
     <a href="https://www.buymeacoffee.com/anatt"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anatt" /></a>
     <a href="https://ko-fi.com/anatt"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anatt" /></a>
-    <a href="https://saweria.co/anatt"><img align="left" src="https://1.bp.blogspot.com/-wE9ReETuG8w/X8shCS5T06I/AAAAAAAAXTo/WAV67smVBeII34XLl4lSpEgLsrx9g1ntgCLcBGAsYHQ/s16000/SAWERIA.jpg" height="50" width="210" alt="anatt" /></a>
+    <a href="https://saweria.co/anatt"><img align="left" src="https://github.com/0x5df/0x5df/blob/main/share/img/saweria.svg" height="50" width="210" alt="anatt" /></a>
 </p><br><br>
 
 ### Another:
