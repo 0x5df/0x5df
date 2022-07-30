@@ -1,4 +1,6 @@
-[![banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/dracula)
+<!-- [![banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/dracula) -->
+
+<p><img align="center" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" height="240" width="800" alt="0x5df" /></p>
 
 <h1 align="center">Hi there 👋</h1>
 
@@ -23,9 +25,9 @@ Hei 'm andre attamimi my purpose to learn and observe open source code to be use
 ### Support:
 
 <a href="https://www.buymeacoffee.com/anatt"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="115" alt="anatt" /></a>
-<a href="https://saweria.co/anatt"><img align="left" src="https://github.com/0x5df/0x5df/blob/main/share/img/saweria.svg" height="35" width="115" alt="anatt" /></a>
+<a href="https://saweria.co/anatt"><img align="left" src="https://github.com/0x5df/0x5df/blob/main/share/img/saweria.svg" height="35" width="125" alt="anatt" /></a>
 </br></br>
 
 ### Another:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x5df&show_icons=true&theme=onedark&locale=en" height="150" width="350" alt="0x5df" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x5df&show_icons=true&theme=onedark&locale=en" alt="0x5df" /></p>
