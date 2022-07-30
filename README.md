@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-I'm andre attamimi my purpose to learn and observe open source code to be useful knowledge for myself or others
+Hei 'm andre attamimi my purpose to learn and observe open source code to be useful knowledge for myself or others
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x5df&label=Profile%20views&color=0e75b6&style=flat" alt="0x5df" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x5df" alt="0x5df" /></a> </p> -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=0x5df&label=Profile%20views&color=0e75b6&style=flat" alt="0x5df" /></p>
 
 - 🌱 I’m currently learning **framework, shell, etc.**
 
@@ -24,8 +22,9 @@ I'm andre attamimi my purpose to learn and observe open source code to be useful
 
 ### Support:
 
-<a href="https://www.buymeacoffee.com/anatt"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anatt" /></a>
-<a href="https://saweria.co/anatt"><img align="left" src="https://github.com/0x5df/0x5df/blob/main/share/img/saweria.svg" height="50" width="210" alt="anatt" /></a>
+<a href="https://www.buymeacoffee.com/anatt"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="115" alt="anatt" /></a>
+<a href="https://saweria.co/anatt"><img align="left" src="https://github.com/0x5df/0x5df/blob/main/share/img/saweria.svg" height="35" width="115" alt="anatt" /></a>
+</br></br>
 
 ### Another:
 
