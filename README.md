@@ -1,10 +1,6 @@
-<!-- [![banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/dracula) -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p><img align="center" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" height="240" width="800" alt="0x5df" /></p>
-
-<h1 align="center">Hi there 👋</h1>
-
-Hei 'm andre attamimi my purpose to learn and observe open source code to be useful knowledge for myself or others
+<p>Welcome to my page! </br> I'm andre attamimi my purpose to learn and observe open source code to be useful knowledge for myself or others</b>. </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=0x5df&label=Profile%20views&color=0e75b6&style=flat" alt="0x5df" /></p>
 
@@ -18,16 +14,6 @@ Hei 'm andre attamimi my purpose to learn and observe open source code to be use
 
 - ⚡ Fun fact **what can I be proud of?**
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### Support:
-
-<a href="https://www.buymeacoffee.com/anatt"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="115" alt="anatt" /></a>
-<a href="https://saweria.co/anatt"><img align="left" src="https://github.com/0x5df/0x5df/blob/main/share/img/saweria.svg" height="35" width="125" alt="anatt" /></a>
-</br></br>
-
-### Another:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x5df&show_icons=true&theme=onedark&locale=en" alt="0x5df" /></p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/0x5df" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/r007mmxv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/andre-attamimi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@anatt." target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
